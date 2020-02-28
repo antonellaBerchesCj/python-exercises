@@ -1,5 +1,3 @@
-HOMEWORKS:
-ftp://10.176.33.111/share/pypres/homework.html
 
 1.    [ctypes] Get the process name from a process ID (CreateToolhelp32Snapshot, TH32CS_SNAPPROCESS, szExeFile).
 
